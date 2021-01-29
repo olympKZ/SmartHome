@@ -1,7 +1,7 @@
 # SmartHome
-List of equipments:
+## List of equipments:
 
-Alen:
+Alen: <\n>
 Raspberry Pi,
 Arduino Uno,
 Parts Kit,
