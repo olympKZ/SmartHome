@@ -17,9 +17,9 @@ Nikita: </br>
 * Parts Kit
 
 Mykyta: </br>
-* Parts Kit,
+* Parts Kit
 * STM32 (Blue Pill)
 
 Heorhii: </br>
-* Parts Kit,
+* Parts Kit
 * STM32 (Blue Pill)
