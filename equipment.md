@@ -19,6 +19,7 @@ Parts Kit
 Mykyta:
 Parts Kit,
 STM32 (Blue Pill)
+PCT2075(Temperature Sensor)
 
 Heorhii:
 Parts Kit,
