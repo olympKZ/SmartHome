@@ -1,3 +1,4 @@
+# SmartHome
 List of equipments:
 
 Alen:
