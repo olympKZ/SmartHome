@@ -20,6 +20,7 @@ Mykyta: </br>
 * Parts Kit
 * STM32 (Blue Pill)
 * PCT2075(Temperature Sensor)
+* USB to TTL
 
 Heorhii: </br>
 * Parts Kit
