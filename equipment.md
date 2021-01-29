@@ -1,15 +1,24 @@
+##List of equipments:
+
 Alen:
 Raspberry Pi,
-Arduino Uno(?),
-Parts Kit
+Arduino Uno,
+Parts Kit,
+Servo motor,
+Stepper motor, 
+Temperature sensor and Humidity sensor,
+Motion sensor,
+Sound sensor,
+Water level detection sensor,
 
 Nikita:
 Raspberry Pi,
 Parts Kit
 
 Mykyta:
-Parts Kit
-STM32
+Parts Kit,
+STM32 (Blue Pill)
 
 Heorhii:
-Micro Controllers
+Parts Kit,
+STM32 (Blue Pill)
