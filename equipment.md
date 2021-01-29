@@ -4,7 +4,6 @@
 Nikita: </br>
 * Raspberry Pi
 * Parts Kit
-* STM32 (Blue Pill)
 
 Alen: </br>
 * Raspberry Pi
