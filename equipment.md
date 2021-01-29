@@ -1,6 +1,11 @@
 # SmartHome
 ## List of equipment
 
+Nikita: </br>
+* Raspberry Pi
+* Parts Kit
+* STM32 (Blue Pill)
+
 Alen: </br>
 * Raspberry Pi
 * Arduino Uno
@@ -11,10 +16,6 @@ Alen: </br>
 * Motion sensor
 * Sound sensor
 * Water level detection sensor
-
-Nikita: </br>
-* Raspberry Pi
-* Parts Kit
 
 Mykyta: </br>
 * Parts Kit
