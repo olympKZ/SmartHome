@@ -9,6 +9,7 @@ Parts Kit
 
 Mykyta:
 Parts Kit
+STM32
 
 Heorhii:
 Parts Kit
