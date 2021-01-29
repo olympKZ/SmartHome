@@ -11,8 +11,8 @@ Alen: </br>
 * Parts Kit
 * Servo motor
 * Stepper motor
-* Temperature sensor and Humidity sensor
-* Motion sensor
+* Temperature sensor and Humidity sensor (DHT11)
+* Motion sensor (HC-SR 501 PIR)
 * Sound sensor
 * Water level detection sensor
 
