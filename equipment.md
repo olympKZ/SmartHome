@@ -1,5 +1,5 @@
 # SmartHome
-## List of equipments
+## List of equipment
 
 Alen: </br>
 * Raspberry Pi
