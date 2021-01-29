@@ -9,7 +9,7 @@ Alen: </br>
 * Raspberry Pi
 * Arduino Uno
 * Parts Kit
-* Servo motor
+* Servo motor (SG90)
 * Stepper motor
 * Temperature sensor and Humidity sensor (DHT11)
 * Motion sensor (HC-SR 501 PIR)
