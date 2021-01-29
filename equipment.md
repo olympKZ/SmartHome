@@ -1,10 +1,10 @@
 Alen:
-Raspberry Pi
-Arduino Uno(?)
+Raspberry Pi,
+Arduino Uno(?),
 Parts Kit
 
 Nikita:
-Raspberry Pi
+Raspberry Pi,
 Parts Kit
 
 Mykyta:
