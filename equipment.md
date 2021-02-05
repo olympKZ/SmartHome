@@ -3,6 +3,10 @@
 
 Nikita: </br>
 * Raspberry Pi
+  * HDMI cable
+  * SD card
+  * USB card reader
+  * Pi switch (power supply)
 * Parts Kit
 * STM32 (Blue Pill)
 * Passive Buzzer    - Nikita *
@@ -11,6 +15,10 @@ Nikita: </br>
 
 Alen: </br>
 * Raspberry Pi
+  * HDMI cable
+  * SD card
+  * USB card reader
+  * Pi switch (power supply)
 * Arduino Uno
 * Parts Kit
 * Servo motor (SG90) - Alen *
