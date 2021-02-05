@@ -5,7 +5,7 @@ Nikita: </br>
 * Raspberry Pi
 * Parts Kit
 * STM32 (Blue Pill)
-* Active Buzzer
+* Passive Buzzer
 * ST-Link V2
 
 Alen: </br>
