@@ -37,3 +37,9 @@ Heorhii: </br>
 * Parts Kit
 * STM32 (Blue Pill)
 * ST-Link V2
+
+Need to buy: </br>
+* Raspberry Pi camera
+* PVC board of size 1m^2 (Polyvinyl chloride) or card board
+* Utility knife
+* Glue gun or super glue
