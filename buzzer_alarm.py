@@ -8,14 +8,7 @@ from datetime import datetime
 import pyrebase
 
 config = {
-    'apiKey': "AIzaSyAq8nDKCJT8AMmkhzfUmNH39LlcamMRbNs",
-    'authDomain': "smarthomehumber.firebaseapp.com",
-    'databaseURL': "https://smarthomehumber-default-rtdb.firebaseio.com",
-    'projectId': "smarthomehumber",
-    'storageBucket': "smarthomehumber.appspot.com",
-    'messagingSenderId': "265889844893",
-    'appId': "1:265889844893:web:957f1215bc7988efe04e74",
-    'measurementId': "G-JFWRMHRR4T"
+    # authentication details
   }
 firebase = pyrebase.initialize_app(config)
 db = firebase.database()
