@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SmartHomeApp</string>
+    <string name="notification_title">SmartHomeApp ALARM TRIGGERED</string>
+    <string name="notification_message">Motion/sound has been detected!</string>
+    <string name="logout">Logout</string>
+    <string name="about">About</string>
+
+
+</resources>
