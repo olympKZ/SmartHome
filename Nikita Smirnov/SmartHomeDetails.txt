@@ -1,0 +1,16 @@
+Project Name: 
+	SmartHome
+
+Team members:
+	Alen Alimkhanov
+	Nikita Smirnov
+	Mykyta Nechyporenko
+	Heorhii Nechyporenko
+
+Project Category:
+	3. Consumer: 
+		Home Security
+		Remote Surveillance
+		Remote Home Management
+		Smart Home Device
+		
